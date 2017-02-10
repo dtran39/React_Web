@@ -11,3 +11,5 @@ III. Props:
 IV. State:
   - State vs Props: State can change
     Use when you have a value that will be changed
+  V. Refs:
+    way to get reference to your child elements
