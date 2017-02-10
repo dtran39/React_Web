@@ -1,0 +1,13 @@
+I. Why react:
+  - Real time update of DOM (no need to refresh page)
+II. Component: A part of the website
+  - Needs to return some HTML
+    + through a function call render
+      render is going to return html
+  - Every component can only return one root element
+    Get around: just wrap all elements in a div
+III. Props:
+  - Allow you to customize your component
+IV. State:
+  - State vs Props: State can change
+    Use when you have a value that will be changed
